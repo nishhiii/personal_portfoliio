@@ -16,7 +16,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image:url(/image/pf1.jpg) ;
+    background-image:url(pf1.jpg) ;
     background-size:cover;
     background-position: center;
     background-attachment: fixed;
@@ -341,13 +341,13 @@ form .btn2{
     color: #ff004f;
 }
 
-/*------------------------making it rrsponsive-------------------------------------*/
+/*------------------------making it responsive-------------------------------------*/
 nav .fa-solid{
     display: none;
 }
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(/image/ss2.jpg) ;
+        background-image: url(ss2.jpg) ;
     }
     .header-text{
         margin-top: 100%;
